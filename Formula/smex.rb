@@ -1,5 +1,5 @@
 class Smex < Formula
-  desc "a blazing fast cli app to extract/convert/process sitemaps"
+  desc "Blazing fast CLI app to extract/convert/process sitemaps"
   homepage "https://github.com/hbish/smex"
   version "v0.0.4"
 
