@@ -1,5 +1,7 @@
 # hbish's taps
 
+![brew test-bot](https://github.com/hbish/homebrew-taps/workflows/brew%20test-bot/badge.svg)
+
 ## How do I install these formulae?
 `brew install hbish/taps/<formula>`
 
