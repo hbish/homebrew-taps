@@ -8,7 +8,7 @@ Or `brew tap hbish/taps` and then `brew install <formula>`.
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/hbish/homebrew-tap/master/Formula/<formula>.rb
+brew install https://raw.githubusercontent.com/hbish/homebrew-taps/master/Formula/<formula>.rb
 ```
 
 ## Documentation
