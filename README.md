@@ -72,7 +72,7 @@ To get help simply run `smex` without any commands and flags.
 
 ### Using Go
 
-`go get -u github.com/hbish/smex`
+`go install github.com/hbish/smex`
 
 ### Using Homebrew
 
@@ -96,9 +96,9 @@ For package documentation please check on [pkg.go.dev](https://pkg.go.dev/github
 
 ### Getting the code
 
-Clone the repo
+Clone the repo to your GOPATH
 
-`git clone git@github.com:hbish/smex.git`
+`go get -u github.com/hbish/smex`
 
 Initialise local environment and install commit hook
 
